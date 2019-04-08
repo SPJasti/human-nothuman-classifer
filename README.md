@@ -1,7 +1,8 @@
 # human-nothuman-classifer
 i have made a binary classifier in (4 hours) which tells if a image has human in it or not .
 
-# check intern_test_2 (1).ipynb for step by step execution 
+# check * intern_test_2 (1).ipynb * for step by step execution (link below )
+https://github.com/SPJasti/human-nothuman-classifer/blob/master/intern_test_2%20(1).ipynb
 
 i was given the task :
 Given a 256x256 image, write a binary classifier to differentiate the given image has a human or not. The approach and the code are more important than the accuracy rate. Please feel free to pick a relevant open dataset for this problem
