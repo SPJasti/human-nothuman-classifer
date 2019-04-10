@@ -1,6 +1,9 @@
 # human-nothuman-classifer
 i have made a binary classifier in (4 hours) which tells if a image has human in it or not .
 
+# link of the colab nootbok 
+https://colab.research.google.com/drive/1VyVpVszzF56kk0h11iF-2fboIYzg2tXz
+
 # check * intern_test_2 (1).ipynb * for step by step execution (link below )
 https://github.com/SPJasti/human-nothuman-classifer/blob/master/intern_test_2%20(1).ipynb
 
